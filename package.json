@@ -1,0 +1,18 @@
+{
+  "name": "animefinder",
+  "version": "1.0.0",
+  "description": "this program searches for anime on https://animego.org",
+  "main": "run.js",
+  "scripts": {
+    "test": "node ./run.js"
+  },
+  "keywords": [
+    "anime"
+  ],
+  "author": "TheNofis",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.0",
+    "puppeteer-extra": "^3.2.3"
+  }
+}
